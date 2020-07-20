@@ -13,19 +13,33 @@ https://docs.google.com/presentation/d/1_1FzEs2pB5jdXiRM2y_t-M6Z-s_HBFij-u_DDevb
 
 ## Data & Resources
 http://www.esa.int/esearch?q=coronavirus
+
 https://global.jaxa.jp/search.html?cx=009266628361095407450%3A93dsxetmy8s&cof=FORID%3A11&ie=UTF-8&oe=UTF-8&q=coronavirus&sa=Search&siteurl=global.jaxa.jp%2F&ref=www.google.com%2F&ss=0j0j1
+
 https://unity.com/
+
 https://www.esa.int/esearch?q=coronavirus
+
 https://health.ucdavis.edu/coronavirus/resources/covid-19-faqs-for-health-professionals.html
+
 https://www.cidrap.umn.edu/covid-19/faqs
+
 https://www.canada.ca/en/institutes-health-research/news/2020/03/government-of-canada-funds-49-additional-covid-19-research-projects-details-of-the-funded-projects.html
+
 https://www.nasa.gov/press-release/nasa-administrator-statement-on-agency-coronavirus-status
+
 https://www.wired.com/story/coronavirus-covid-19-isolation-psychology/
+
 https://www.wired.com/2013/03/social-isolation/
+
 https://data.nasa.gov/browse?q=coronavirus
+
 https://www.who.int/ar/emergencies/diseases/novel-coronavirus-2019
+
 https://taskbook.nasaprs.com/tbp/index.cfm?action=public_query_taskbook_content&TASKID=12495
+
 https://www.nasa.gov/hrp/social-isolation
+
 https://www.nasa.gov/hrp/social-isolation/in-context
 
 ## Tags
