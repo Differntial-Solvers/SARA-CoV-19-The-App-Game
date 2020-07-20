@@ -1,4 +1,6 @@
 # SARA-CoV-19-The-App-Game
+# The Isolation Solution
+Social distancing policies enacted the world over during the COVID-19 pandemic have left many people socially isolated. Your challenge is to develop innovative solutions to combat social isolation.
 ## Summary
 The project is a multi-player video game that contains mini-games form a variety of genres to attract different types of people to play with each other while informing them directly and indirectly of useful information about the Novel Coronavirus.
 How We Addressed This Challenge
